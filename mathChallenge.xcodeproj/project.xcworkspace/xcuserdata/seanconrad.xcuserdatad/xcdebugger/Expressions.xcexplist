@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:main.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "displayOperators[4]">
+            </PersistentString>
+            <PersistentString
+               value = "availableOperators">
+            </PersistentString>
+            <PersistentString
+               value = "availableOperators[&quot;Square Root&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "doMath(firstNum:operatorType:):main.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "25.squareRoot()">
+            </PersistentString>
+            <PersistentString
+               value = "sqrt(25)">
+            </PersistentString>
+            <PersistentString
+               value = "NSExpression(format: stringExpression)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
